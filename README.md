@@ -6,3 +6,4 @@
 - use configuration `Simulation`
 - use debugger `Intel SGX`
 - set as startup project `application`
+- set Debugging->Working Directory for `application`: `$(OutDir)`
