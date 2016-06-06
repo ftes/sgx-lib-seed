@@ -216,9 +216,6 @@
     <Xml Include="enclave.config.xml" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\sgx-lib\sgx_lib_t\sgx_lib_t.vcxproj">
       <Project>{1426ff60-1bc6-4f41-80d4-3c15be167046}</Project>
     </ProjectReference>
